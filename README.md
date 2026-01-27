@@ -73,7 +73,7 @@ This portfolio activity emphasizes **controls assessment and risk evaluation**, 
 </details>
 
 <p align="center">
-  <img src="images/A_flowchart_infographic_illustrates_the_Security_A.png" alt="Audit Flow Diagram" width="800" style="border:1px solid #ccc; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+  <img src="images/Security audit process.png" alt="Audit Flow Diagram" width="800" style="border:1px solid #ccc; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
 </p>
 <p align="center"><em>Visual representation of the Security Audit Control Assessment workflow</em></p>
 
