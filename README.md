@@ -117,5 +117,3 @@ This project demonstrates the ability to:
 💻 GitHub: https://github.com/SherazJamil/
 
 ---
-
-                                               ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
