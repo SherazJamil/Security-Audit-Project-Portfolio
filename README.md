@@ -21,7 +21,7 @@ Welcome to my cybersecurity portfolio project. This repository showcases a **Sec
 
 ## 📌 Project Scenario
 
-This project is based on the official course scenario: reviewing the **existing security controls and compliance practices** of a fictional organization. The objective is to evaluate whether current safeguards meet industry-recommended best practices and identify potential risks to organizational assets, employees, and customers.
+This project is based on the official course scenario: reviewing the **existing security controls and compliance practices** of an organization. The objective is to evaluate whether current safeguards meet industry-recommended best practices and identify potential risks to organizational assets, employees, and customers.
 
 This portfolio activity emphasizes **controls assessment and risk evaluation**, reflecting real-world cybersecurity audit principles.
 
@@ -34,8 +34,7 @@ This portfolio activity emphasizes **controls assessment and risk evaluation**, 
 
 * Conducted a structured security controls assessment
 * Documented actionable recommendations
-* Applied NIST & ISO 27001 frameworks
-* Created recruiter-friendly portfolio artifacts
+* Applied NIST framework
 
 </details>
 
@@ -73,16 +72,20 @@ This portfolio activity emphasizes **controls assessment and risk evaluation**, 
 </details>
 
 <p align="center">
-  <img src="images/Security audit process.png" alt="Audit Flow Diagram" width="800" style="border:1px solid #ccc; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+  <img src="images/Security audit process.png" 
+       alt="Audit Flow Diagram" 
+       width="800" 
+       style="border:2px solid #ccc; border-radius:20px; box-shadow: 4px 4px 15px rgba(0,0,0,0.2);">
 </p>
 <p align="center"><em>Visual representation of the Security Audit Control Assessment workflow</em></p>
+
 
 ---
 
 ## 📑 Detailed Report
 
 The full professional audit report is available here:
-**`Security_Audit_Report_Google_Cybersecurity.docx`**
+**`Security_Audit_Report.docx`**
 
 It includes:
 
@@ -95,7 +98,6 @@ It includes:
 Framework References:
 
 * [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
-* [ISO/IEC 27001 Information Security](https://www.iso.org/isoiec-27001-information-security.html)
 
 ---
 
@@ -107,22 +109,13 @@ This project demonstrates the ability to:
 * Interpret risk and compliance requirements
 * Create professional documentation suitable for technical and non-technical stakeholders
 
-Relevant roles for these skills in Saudi Arabia include:
-
-* Junior Cybersecurity Analyst
-* SOC Analyst
-* Risk & Compliance Analyst
-* IT Auditor
-
 ---
 
 ## 👤 About Me
 
-**Name:** Sheraz Jamil
-📧 Email: [Your Email]
-🔗 LinkedIn: [Your LinkedIn]
-💻 GitHub: [Your GitHub]
+**Name:** Muhammad Sheraz Jamil
+📧 Email: sherazjamil463@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/sheraz-jamil/
+💻 GitHub: https://github.com/SherazJamil/
 
----
-
-⭐ *This project reflects the official portfolio activity from the Google Cybersecurity Professional Certificate and demonstrates practical, recruiter-ready cybersecurity audit skills.*
+                                                 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
