@@ -1,6 +1,6 @@
-# 🔐 Security Audit Project – Cybersecurity Portfolio
+# 🔐 Security Audit Project
 
-**Google Cybersecurity Professional Certificate | Security Audit & Risk Assessment**
+**Security Audit & Risk Assessment**
 
 This repository contains a professional **Security Audit project** completed as part of the **Google Cybersecurity Professional Certificate (Coursera)**.  
 The project demonstrates hands-on experience in assessing security controls, identifying risks, and evaluating compliance using industry-recognized frameworks.
@@ -77,7 +77,7 @@ The audit is aligned with concepts taught in the Google Cybersecurity Certificat
 
 The complete professional audit report is available here:
 
-📎 **[Security_Audit_Report.docx](./Security_Audit_Report.docx)**
+📎 **[Security Audit Report.docx](./Security Audit Report.docx)**
 
 The report includes:
 - Executive Summary  
