@@ -1,119 +1,116 @@
-# 🔐 Security Audit Project
+# 🔐 Security Audit Project – Cybersecurity Portfolio
 
-![Google Cybersecurity Professional](https://img.shields.io/badge/Google-Cybersecurity-blue?style=for-the-badge) ![Portfolio](https://img.shields.io/badge/Portfolio-Ready-green?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![NIST](https://img.shields.io/badge/NIST-Framework-0078D7?style=for-the-badge\&logo=nist) ![ISO27001](https://img.shields.io/badge/ISO-27001-Framework-4B8BBE?style=for-the-badge\&logo=iso) ![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-Portfolio-00A676?style=for-the-badge) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Skills-red?style=for-the-badge)
+**Google Cybersecurity Professional Certificate | Security Audit & Risk Assessment**
 
-Welcome to my cybersecurity portfolio project. This repository showcases a **Security Audit** conducted as part of the **Google Cybersecurity Professional Certificate**, aligned with the official course scenario and best practices for professional cybersecurity assessments.
-
----
-
-## 📌 Table of Contents
-
-* [Project Scenario](#project-scenario)
-* [Project Highlights](#project-highlights)
-* [Skills Demonstrated](#skills-demonstrated)
-* [Audit Findings Summary](#audit-findings-summary-control-checklist)
-* [Detailed Report](#detailed-report)
-* [Career Relevance](#career-relevance)
-* [About Me](#about-me)
+This repository contains a professional **Security Audit project** completed as part of the **Google Cybersecurity Professional Certificate (Coursera)**.  
+The project demonstrates hands-on experience in assessing security controls, identifying risks, and evaluating compliance using industry-recognized frameworks.
 
 ---
 
-## 📌 Project Scenario
+## 🏢 Project Scenario
 
-This project is based on the official course scenario: reviewing the **existing security controls and compliance practices** of an organization. The objective is to evaluate whether current safeguards meet industry-recommended best practices and identify potential risks to organizational assets, employees, and customers.
-
-This portfolio activity emphasizes **controls assessment and risk evaluation**, reflecting real-world cybersecurity audit principles.
-
----
-
-## 🚀 Project Highlights
-
-<details>
-<summary>Click to expand Project Highlights</summary>
-
-* Conducted a structured security controls assessment
-* Documented actionable recommendations
-* Applied NIST framework
-
-</details>
+This project is based on a fictional retail organization provided in the Google Cybersecurity Professional Certificate.  
+The scenario simulates a real-world environment where customer data and payment information must be protected through effective security controls and compliance practices.
 
 ---
 
-## 🧠 Skills Demonstrated
+## 📌 Project Overview
 
-<details>
-<summary>Click to expand Skills Demonstrated</summary>
+The objective of this audit was to review an organization’s existing **administrative, technical, and physical security controls** and determine whether they align with cybersecurity best practices.
 
-* Reviewing audit scope and objectives
-* Identifying risks based on implemented controls
-* Evaluating compliance with security best practices
-* Communicating audit findings clearly and professionally
-* Documenting results in a structured and recruiter-friendly format
-* Understanding NIST and ISO 27001 frameworks
+The assessment focuses on:
+- Control effectiveness
+- Risk exposure
+- Compliance gaps
+- Actionable security recommendations
 
-</details>
+This project is based on the official **Botium Toys** course scenario.
 
 ---
 
-## 📊 Audit Findings Summary (Control Checklist)
+## 🧭 Audit Scope
 
-<details>
-<summary>Click to expand audit findings table</summary>
+The audit evaluated the following areas:
+- Access control and identity management
+- Data protection and encryption
+- Network security controls
+- Incident response readiness
+- Backup and disaster recovery
+- Physical security controls
+- Legacy system monitoring
 
-| Control Category               | Audit Result (Yes/No) | Status               | Notes                                            |
-| ------------------------------ | --------------------- | -------------------- | ------------------------------------------------ |
-| Security Policy Documentation  | Yes                   | ✅ Compliant          | Policies exist; recommend periodic review        |
-| Access Management Controls     | No                    | ⚠️ Needs Improvement | Multi-factor authentication not implemented      |
-| Patch & Update Management      | Yes                   | 🟡 On Track          | Some updates pending; monitor regularly          |
-| Data Encryption Practices      | No                    | ❌ High Risk          | Sensitive data unencrypted; implement encryption |
-| Incident Response Preparedness | Yes                   | ✅ Ready              | IR plan documented and reviewed                  |
+---
 
-</details>
+## 🛠️ Frameworks & Standards Referenced
+
+The audit is aligned with concepts taught in the Google Cybersecurity Certificate and references:
+
+- **NIST Cybersecurity Framework**
+- **PCI DSS** (Payment Card Industry Data Security Standard)
+- **GDPR** (General Data Protection Regulation)
+- **SOC (System and Organization Controls)** concepts
+
+---
+
+## 📊 Key Findings Summary
+
+| Control Area | Status | Risk Level |
+|-------------|--------|-----------|
+| Least Privilege | Not Implemented | High |
+| Data Encryption | Not Implemented | High |
+| Disaster Recovery & Backups | Missing | High |
+| Password Policies | Weak | Medium |
+| Firewall | Implemented | Low |
+| Antivirus | Implemented | Low |
+| Physical Security | Implemented | Low |
+
+---
 
 <p align="center">
-  <img src="images/Security audit process.png" alt="Audit Flow Diagram" width="800" style="border:1px solid #ccc; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+  <img src="images/Security Audit Process.png" alt="Audit Flow Diagram" width="800" style="border:1px solid #ccc; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
 </p>
 <p align="center"><em>Visual representation of the Security Audit Process workflow</em></p>
 
+---
 
+## 📄 Full Audit Report
+
+The complete professional audit report is available here:
+
+📎 **[Security_Audit_Report.docx](./Security_Audit_Report.docx)**
+
+The report includes:
+- Executive Summary  
+- Audit Methodology  
+- Risk Assessment  
+- Compliance Analysis  
+- Security Recommendations  
+- Conclusion  
 
 ---
 
-## 📑 Detailed Report
+## 🎯 Skills Demonstrated
 
-The full professional audit report is available here:
-**`Security_Audit_Report.docx`**
-
-It includes:
-
-* Executive Summary
-* Audit Methodology
-* Control Checklists
-* Detailed Recommendations
-* Conclusion
-
-Framework References:
-
-* [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+- Security controls assessment
+- Risk identification and analysis
+- Compliance evaluation (PCI DSS, GDPR, SOC)
+- Professional audit documentation
+- Security reporting for technical and non-technical audiences
 
 ---
 
-## 📌 Career Relevance
+## 🚀 Career Relevance
 
-This project demonstrates the ability to:
-
-* Conduct structured security assessments
-* Interpret risk and compliance requirements
-* Create professional documentation suitable for technical and non-technical stakeholders
+This project demonstrates readiness for:
+- **Junior SOC Analyst**
+- **GRC / Risk Analyst**
+- **Cybersecurity Analyst (Entry-Level)**
 
 ---
 
 ## 👤 About Me
 
-**Name:** Muhammad Sheraz Jamil
-📧 Email: sherazjamil463@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/sheraz-jamil/
-💻 GitHub: https://github.com/SherazJamil/
-
----
+**Name:** Muhammad Sheraz Jamil  
+📧 **Email:** sherazjamil463@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sheraz-jamil/  
+💻 **GitHub:** https://github.com/SherazJamil
