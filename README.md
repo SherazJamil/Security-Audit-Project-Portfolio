@@ -67,7 +67,7 @@ The audit is aligned with concepts taught in the Google Cybersecurity Certificat
 ---
 
 <p align="center">
-  <img src="images/Security Audit Process.png" alt="Audit Flow Diagram" width="800" style="border:1px solid #ccc; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+  <img src="images/Security audit process.png" alt="Audit Flow Diagram" width="800" style="border:1px solid #ccc; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
 </p>
 <p align="center"><em>Visual representation of the Security Audit Process workflow</em></p>
 
